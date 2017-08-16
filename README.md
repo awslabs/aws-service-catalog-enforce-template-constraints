@@ -7,7 +7,7 @@ Go to Lambda Console -> Create-Function->Author From Scratch->Add Trigger->Selec
 
 ![alt text](https://github.com/awslabs/aws-service-catalog-enforce-template-constraints/blob/ghoshtapo-patch-1/screenshots/Screen%20Shot%202017-08-16%20at%203.39.06%20PM.png)
 
-Click Next -> Enter a name for the function-> In the Description, enter "Enforce Template Constraints for ServiceCatalog -> Choose Python2.7 as RunTime-> Paste the contents of enforce-template-constraints.py in the Lambda Function Code block -> Enter lambda_function.lambda_handler in the Handler-> Create a custom role. Name it service-catalog-lambda-role->Enter the following policy 
+Click Next -> Enter a name for the function-> In the Description, enter "Enforce Template Constraints for ServiceCatalog -> Choose Python2.7 as RunTime-> Paste the contents of enforce-template-constraints.py in the Lambda Function Code block -> Enter lambda_function.lambda_handler in the Handler-> Create a custom role. Name it service-catalog-lambda-<region>role->Enter the following policy 
 
 ```
 
