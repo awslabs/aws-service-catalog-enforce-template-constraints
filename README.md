@@ -40,7 +40,10 @@ Click Next -> Enter a name for the function-> In the Description, enter "Enforce
 
 ```
 
-On the Configure function page, choose Next-> Review the configuration settings before choosing Create function
+On the Configure function page
+![alt text](https://github.com/awslabs/aws-service-catalog-enforce-template-constraints/blob/master/screenshots/Screen%20Shot%202017-08-16%20at%204.03.06%20PM.png)
+
+choose Next-> Review the configuration settings before choosing Create function
 
 
 
