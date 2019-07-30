@@ -1,15 +1,5 @@
 #Copyright 2017 Amazon.com, Inc. and its affiliates. All Rights Reserved.
-#
-#Licensed under the Amazon Software License (the "License").
-#You may not use this file except in compliance with the License.
-#A copy of the License is located at
-#
-#  http://aws.amazon.com/asl/
-#
-#or in the "license" file accompanying this file. This file is distributed
-#on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
-#express or implied. See the License for the specific language governing
-#permissions and limitations under the License.
+#SPDX-License-Identifier: MIT-0
 
 # This sample, non-production-ready script can clamp down the instancetype constraint for all Service Catalog portfolio/product to t2.medium or small. and the associated products (c) 2017 Amazon Web Services, Inc. or its affiliates. All Rights Reserved. This AWS Content is provided subject to the terms of the AWS Customer Agreement available at http://aws.amazon.com/agreement or other written agreement between Customer and Amazon Web Services, Inc.
 
